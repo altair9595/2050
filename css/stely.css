@@ -1,0 +1,33 @@
+body{
+    font-family: 'Lato', sans-serif;
+    
+}
+.my navbar{
+    background-color: #4741AF;
+    
+}
+.navbar{
+   font-weight:900; 
+   background-color:#4741AF ;
+   color: white;
+}
+.mnavbar{
+    padding-left: 649px;
+}
+.groß1{
+    font-size: 72px;
+    font-weight: 800;
+    
+
+}
+
+
+.groß2{
+    background: #6c63ff;
+    margin-top: 25px;
+    color: white;
+    font-weight: 600;
+    padding: 8px 35px;
+    border-radius: 28px;
+font-size: 14px;
+}
